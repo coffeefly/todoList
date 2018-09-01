@@ -1,8 +1,15 @@
-# todo
+# todoList
 
-> A todoList project
+> 一个vue实现的todo任务管理器
 
 ## Build Setup
+
+### 目前主要实现功能如下
+
+1. 可以新增一个任务
+2. 可以对任务进行编辑或者删除
+3. 可以对任务进行筛选，包括已完成、未完成、全部
+
 
 ``` bash
 # install dependencies
